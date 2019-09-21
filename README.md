@@ -3,7 +3,7 @@
   <img src="docs/logo.png" alt="logo"/>
 </p>
 
-> 第二次活动的主题教程和素材仓库
+> 第二次活动的主题教程和素材仓库llll
 
 ## 基本练习
 
